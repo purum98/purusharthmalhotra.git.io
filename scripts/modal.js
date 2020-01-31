@@ -6,28 +6,28 @@ $(document).ready(function() {
       tag: 'FOOD ORDERING PLATFORM.',
       detail:
         'ChowNow Discover is a platform that lets customers discover new local restaurants and provides business owners with tools to convert first time orders into lifelong diners.',
-      link: 'https://eat.chownow.com/'
+      
     },
     ordering: {
       title: 'ChowNow Ordering Web',
       tag: 'WHITE-LABEL ONLINE ORDERING SOLUTION.',
       detail:
         'ChowNow is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.',
-      link: 'https://direct.chownow.com/direct/195/locations/260'
+      
     },
     newrelic: {
       title: 'NewRelic.com',
       tag: 'APPLICATION PERFORMANCE MONITORING.',
       detail:
         'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.newrelic.com'
+      
     },
     roambi: {
       title: 'Roambi.com',
       tag: 'BUSINESS ANALYTICS.',
       detail:
         'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
+      
     },
     walker: {
       title: 'WalkerTracker',
@@ -40,7 +40,7 @@ $(document).ready(function() {
       tag: 'CONSUMER POWERED MARKETING.',
       detail:
         'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+      
     },
     mystand: {
       title: 'MyStand',
